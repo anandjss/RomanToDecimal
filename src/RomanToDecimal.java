@@ -7,8 +7,8 @@ public class RomanToDecimal {
 
     /**
      * Converts roman numerals to decimals using if statements and for loops
-     * @param roman
-     * @return
+     * @param roman epresents a string of roman numerals
+     * @return a decimal value
      */
     public static int romanToDecimal(String roman)  {
         int sum = 0;
